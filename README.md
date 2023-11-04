@@ -8,7 +8,6 @@ Build a Docker image with GitHub actions
 
 ## Steps
 
-
 ### 1. Fork this repo
 Click the 'Fork' button at the right corner of the screen and confirm by clicking 'Create Fork'.
 This will create a new repo in your account with the content of this one.
